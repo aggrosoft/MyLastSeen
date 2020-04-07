@@ -6,7 +6,7 @@ $aModule = array(
         'de'=>'Zuletzt angesehene Produkte f&uuml;r Flow Theme',
         'en'=>'Last Seen Products for Flow Theme',
     ),
-    'version'     => '2.0.0',
+    'version'     => '2.0.1',
     'url'         => 'http://zunderweb.de',
     'email'       => 'info@zunderweb.de',
     'author'      => 'Zunderweb',
