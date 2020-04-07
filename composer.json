@@ -12,8 +12,8 @@
   ],
   "extra": {
     "oxideshop": {
-      "source-directory": "oxid_4.10.x/mylastseeen/",
-      "target-directory": "mylastseeen"
+      "source-directory": "oxid_4.10.x/mylastseen/",
+      "target-directory": "mylastseen"
     }
   }
 }
