@@ -1,0 +1,19 @@
+{
+  "name": "aggrosoft/oxid-mylastseen",
+  "type": "oxideshop-module",
+  "description": "Last seen products",
+  "license": "MIT",
+  "version": "2.0.0",
+  "authors": [
+    {
+      "name": "Alexander Kludt",
+      "homepage": "https://github.com/aggrosoft"
+    }
+  ],
+  "extra": {
+    "oxideshop": {
+      "source-directory": "oxid_4.10.x/mylastseeen/",
+      "target-directory": "mylastseeen"
+    }
+  }
+}
